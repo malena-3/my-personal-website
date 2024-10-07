@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-personal-website/static/css/main.9ce53dd7.css",
+    "main.js": "/my-personal-website/static/js/main.740622ac.js",
+    "static/js/453.8463039d.chunk.js": "/my-personal-website/static/js/453.8463039d.chunk.js",
+    "static/media/inclusiveIden.jpeg": "/my-personal-website/static/media/inclusiveIden.9c3bf0d0e4b38f7c9bc9.jpeg",
+    "static/media/sheCodesClubRush1.jpeg": "/my-personal-website/static/media/sheCodesClubRush1.f9c1cec2636348e585cb.jpeg",
+    "static/media/snapSpeech.jpeg": "/my-personal-website/static/media/snapSpeech.6641c5ce319b72581d90.jpeg",
+    "static/media/logo.svg": "/my-personal-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-personal-website/index.html",
+    "main.9ce53dd7.css.map": "/my-personal-website/static/css/main.9ce53dd7.css.map",
+    "main.740622ac.js.map": "/my-personal-website/static/js/main.740622ac.js.map",
+    "453.8463039d.chunk.js.map": "/my-personal-website/static/js/453.8463039d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9ce53dd7.css",
+    "static/js/main.740622ac.js"
+  ]
+}
