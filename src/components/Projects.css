@@ -25,6 +25,11 @@
 #projects ul {
     list-style-type: none;
     padding: 0;
+    margin-bottom: 50px;
+}
+
+#projects li {
+    font-weight: bold;
 }
 
 #projects ul li {
