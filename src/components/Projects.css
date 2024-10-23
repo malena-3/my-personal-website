@@ -1,0 +1,41 @@
+#projects{
+    padding: 40px 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+#projects h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+#projects p {
+    font-size: 1.0rem;
+    margin-top: 20px;
+}
+
+#projects a {
+    color: #0066cc;
+}
+
+
+#projects ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+#projects li {
+    font-weight: bold;
+}
+
+#projects ul li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+}
